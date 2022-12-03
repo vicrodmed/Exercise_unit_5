@@ -1,0 +1,8 @@
+5)
+git commit -a -m "Commit for step 5"
+git push
+
+6)
+git add nwe2.txt
+git commit -a -m "Commit for step 6"
+git push
